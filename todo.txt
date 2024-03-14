@@ -5,5 +5,10 @@
   3) work on to-do list
   4) Let's make a command that spams Connor
   5) command that picks a gif off tenor and pastes it
+  6) command that says "but it would be funny" when prompted
+  7) DANCING TOOTHLESS GIF COMMAND
+  8) coinfflip
+  9) un-coinflip
+  10) time command that only plays the clip of the guy screaming "YAM-TIME"
 
 */
